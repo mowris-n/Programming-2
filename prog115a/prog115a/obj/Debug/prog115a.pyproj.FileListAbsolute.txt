@@ -1,0 +1,12 @@
+C:\Users\mowris.n\Desktop\Programming 2\prog115a\prog115a\bin\Debug\prog115a.exe.config
+C:\Users\mowris.n\Desktop\Programming 2\prog115a\prog115a\bin\Debug\prog115a.exe
+C:\Users\mowris.n\Desktop\Programming 2\prog115a\prog115a\bin\Debug\prog115a.dll
+C:\Users\mowris.n\Desktop\Programming 2\prog115a\prog115a\bin\Debug\IronPython.dll
+C:\Users\mowris.n\Desktop\Programming 2\prog115a\prog115a\bin\Debug\IronPython.Modules.dll
+C:\Users\mowris.n\Desktop\Programming 2\prog115a\prog115a\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\mowris.n\Desktop\Programming 2\prog115a\prog115a\bin\Debug\Microsoft.Scripting.dll
+C:\Users\mowris.n\Desktop\Programming 2\prog115a\prog115a\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\mowris.n\Desktop\Programming 2\prog115a\prog115a\obj\Debug\prog115a.pyprojResolveAssemblyReference.cache
+C:\Users\mowris.n\Desktop\Programming 2\prog115a\prog115a\obj\Debug\prog115a.MainForm.resources
+C:\Users\mowris.n\Desktop\Programming 2\prog115a\prog115a\obj\Debug\prog115a.pyproj.GenerateResource.Cache
+C:\Users\mowris.n\Desktop\Programming 2\prog115a\prog115a\obj\Debug\prog115a.exe
